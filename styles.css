@@ -45,7 +45,7 @@ section {
 .hero {
   position: relative; /* Needed for overlay */
   /* Set a background image that covers the whole section */
-  background-image: url('https://cdn2.dropmarkusercontent.com/52043/62f5fe7430ef1d904413d30061db29ad5f527db8bc41c25f93e0d4494a81584b/preview/JS_20170804_3450.jpg?Expires=1758851937&Signature=cgfb-w6iaqbb6IvFgn6BSq8xjC46AbOLLRVynqIK8x0-r2rhcWWU2rFNqtw2hzyPvzHPeMwzYZtR5Dee4JHQBpRSZEzS68zUOHza9neiyx8OAfiU7HzyojUiWpAqOPZWGVRqq2ECL2Dk8giGsCWmVChIsl5I~--V1Wr3aEvWch5IyCSqBH5c5ZvYwORhXUwDWhVRmuSVHcnuHEbfHiorNHOmhZJr3I53hHgl2h6Qs~M2o8FaaETCHzL~9novDliNRNGZ-cjG7Gwaf6Dep6RiVt8dmNciT7No4Yh3nR91oDbCjWPj~ZiEusIuCNI9DbyhDC3~mp4iMgsGBcPDDaeaXQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ');
+  background-image: url('https://cdn2.dropmarkusercontent.com/52043/62f5fe7430ef1d904413d30061db29ad5f527db8bc41c25f93e0d4494a81584b/JS_20170804_3450.jpg?Expires=1758857050&Signature=IgDKx8rfEbyuMnmG9YfbeXF6zZnWYHm2ErmB3rn61N~ezrr~THSUi8xoVOVFVJJgx1fZ~RrZPEt24EqCV7RiX0OhkzBiZUb3XCvVq0P9FxZcG3txepbDg7ebVDA9t~CcvTnhtJF69CsLj1Y3J2VDzIhR8hB3KI3dwkVnjmBwe-5bBK0SdfdBlGEwRJCaZV3M18wji1Kte1b-5u8dy4c2kOcyKztYFT-5eLfR61z0eoKYS3rpTrShEQLA95XAlS7qM0tpXbu4mvAASUeuy7Y-oBgEpWleuX07hdORSRdK0C2un8khLIbtIf2qp1FO-vc9G7ANYpn2yeQMRaNeEdEDTg__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ');
   background-size: cover;      /* Make the image cover the whole area */
   background-position: center; /* Center the image */
   background-repeat: no-repeat;
